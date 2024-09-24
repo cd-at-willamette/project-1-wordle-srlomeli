@@ -1,8 +1,8 @@
 ########################################
-# Name: Salvador Lom
+# Name: Salvador Lomeli
 # Collaborators (if any):
 # GenAI Transcript (if any):
-# Estimated time spent (hr):
+# Estimated time spent (hr):.25
 # Description of any added extensions:
 ########################################
 
